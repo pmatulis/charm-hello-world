@@ -1,0 +1,7 @@
+name: hello-world-pmatulis
+summary: My first operator charm
+description: |
+  A test charm to demonstrate Charmcraft and the
+  Python operator framework Ops.
+series: [kubernetes]
+docs: https://discourse.charmhub.io/t/hello-world-pmatulis-doc-index/6832
